@@ -16,7 +16,7 @@ To run the script on your local machine or server, execute the following command
 
 ```bash
 # Grant execution permission to the script
-chmod +x script_name.sh
+chmod +x linux-automation-scripts.sh
 
 # Run the script
 ./linux-automation-scripts.sh
